@@ -1,1 +1,0 @@
-java -jar out/artifacts/lab7_client_jar/lab7.jar

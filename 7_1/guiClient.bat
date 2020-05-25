@@ -1,1 +1,0 @@
-java -jar out/artifacts/gui/gui.jar
